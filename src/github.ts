@@ -1,5 +1,3 @@
-import "dotenv/config";
-
 const GITHUB_API = "https://api.github.com";
 const REPO = "microsoft/vscode";
 

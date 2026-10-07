@@ -1,5 +1,5 @@
 {
-  "name": "engenheiro-de-ai-reliability",
+  "name": "issue-triage-agent",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -14,6 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ai-sdk/openai": "^4.0.87",
+    "ai": "^7.0.131",
     "dotenv": "^18.0.0"
   },
   "devDependencies": {
